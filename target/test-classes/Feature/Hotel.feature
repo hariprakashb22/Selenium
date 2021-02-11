@@ -8,5 +8,6 @@ When Enter Names
    |Kumar|An|31.01188|Asia|
 And Selet items
 Then Fill the date and commands
+And details completed
     
 	
